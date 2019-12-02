@@ -19,8 +19,8 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
-  quotient = num1num2 
-
+  quotient = (num1).reaminder(num2) 
+  puts quotient
 end
 
 def square_root(num)
